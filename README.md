@@ -1,1 +1,2 @@
 # Classification-for-a-given-training-data
+This program calculates generates random training data for positive and negetive examples. Based on the training data, it generates an specific and a general hypthesis. S and G. The first task involves a rectangular hypothesis further tested with some randomly generated test data. It checks for how many positive and negetive examples lie inn specific and general hypothesis. It then calculates the percentage for that. The same task is prepeated with circular hypthesis. 
